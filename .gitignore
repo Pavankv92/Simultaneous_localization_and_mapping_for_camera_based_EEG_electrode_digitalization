@@ -1,0 +1,21 @@
+src/slam/src/result/00/*.csv
+
+
+.vscode
+.json
+.pyc
+
+# Ignore moveit_tutorials
+xyz_points_array.npy
+
+# ignore data folder 
+/data/
+
+#ignore the result folder
+/src/slam/src/result/00/*.csv
+
+#ignore the result 
+/src/slam/src/data/
+/src/slam/src/data/
+/src/slam/src/data_matlab/
+/src/slam/src/robot_trajectory
