@@ -16,7 +16,7 @@
 https://user-images.githubusercontent.com/50611671/133922767-bb743d54-fc99-4aef-9ce9-f8426658f57b.mp4
 
 ## Systematic Error:
-![Systematic_error](https://user-images.githubusercontent.com/50611671/133922398-0726b41b-fbdf-401b-a5fd-52b52014f725.png)
+![Capture](https://user-images.githubusercontent.com/50611671/133923016-9e841af3-18a4-4143-869a-64c5780074d2.PNG)
 
 ## SLAM Robot:
 ![Slam_robot](https://user-images.githubusercontent.com/50611671/133922392-6690db45-2f5d-48a6-bdf6-7d18f938aec7.png)
